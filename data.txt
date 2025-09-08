@@ -1,0 +1,13 @@
+Dataset: MNIST Handwritten Digits
+
+Description:
+The MNIST dataset contains 70,000 grayscale images of handwritten digits (28x28 pixels) — 
+60,000 training samples and 10,000 test samples.
+
+Source:
+Yann LeCun, Corinna Cortes, and Christopher J.C. Burges.
+Available at: http://yann.lecun.com/exdb/mnist/
+
+Alternative mirrors:
+TensorFlow/Keras built-in dataset loader:
+https://www.tensorflow.org/datasets/catalog/mnist
